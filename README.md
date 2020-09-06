@@ -1,1 +1,0 @@
-# SRA-Image-Processing-Tasks
